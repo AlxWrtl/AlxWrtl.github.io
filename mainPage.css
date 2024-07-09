@@ -1,0 +1,42 @@
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    header {
+        background-color: #f8f9fa;
+        padding: 20px;
+    }
+
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    nav ul li {
+        display: inline;
+        margin-right: 20px;
+    }
+
+    #cover img {
+        width: 100%;
+        height: auto;
+    }
+
+    #project {
+        text-align: center;
+        padding: 50px;
+    }
+
+    #project button {
+        padding: 10px 20px;
+        font-size: 18px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    #about, #contact {
+        padding: 50px;
+    }
